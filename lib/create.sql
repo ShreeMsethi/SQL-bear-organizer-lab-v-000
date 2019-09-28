@@ -4,4 +4,4 @@ CREATE TABLE bears (id INTEGER PRIMARY KEY,
                     gender TEXT,
                     color TEXT,
                     temperament TEXT,
-                    alive TEXT);
+                    alive );
